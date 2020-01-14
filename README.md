@@ -6,3 +6,6 @@
 - [Сумма с произвольным количеством скобок](https://learn.javascript.ru/task/sum-many-brackets)
 - [prototype](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
 - [Различия между proto и prototype](https://ru.stackoverflow.com/questions/683190/%D0%92-%D1%87%D0%B5%D0%BC-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-proto-%D0%BE%D1%82-prototype)
+- [Различия между proto и prototype](https://habr.com/ru/post/140810/)
+- [Пример наследования (learn.javascript)](https://learn.javascript.ru/prototype-inheritance)
+- [Пример наследования (mozilla)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
