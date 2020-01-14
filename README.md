@@ -9,3 +9,6 @@
 - [Различия между proto и prototype](https://habr.com/ru/post/140810/)
 - [Пример наследования (learn.javascript)](https://learn.javascript.ru/prototype-inheritance)
 - [Пример наследования (mozilla)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [How to create an object without a prototype?](http://adripofjavascript.com/blog/drips/creating-objects-without-prototypes.html)
+- [Array methods that loop over the elements.](https://learn.javascript.ru/array-iteration)
+## “hello world”.repeating(3) -> hello world hello world hello world. How to implement?
