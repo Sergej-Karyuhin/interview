@@ -4,3 +4,5 @@
 - [let / var / const // (learn.javascript)](https://learn.javascript.ru/let-const)
 - [Передача параметров по значению и по ссылке](https://metanit.com/web/javascript/3.7.php)
 - [Сумма с произвольным количеством скобок](https://learn.javascript.ru/task/sum-many-brackets)
+- [prototype](https://developer.mozilla.org/ru/docs/Web/JavaScript/Reference/Global_Objects/Object/prototype)
+- [Различия между __proto__ и prototype](https://ru.stackoverflow.com/questions/683190/%D0%92-%D1%87%D0%B5%D0%BC-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-proto-%D0%BE%D1%82-prototype)
