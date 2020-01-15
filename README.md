@@ -30,3 +30,14 @@
 - []()
 - []()
 - []()
+
+## Полезные ссылки:
+
+- [This\bind\call\apply](https://habr.com/ru/post/149516/)
+- [Наследование](https://learn.javascript.ru/prototypes)
+- [Замыкание](https://learn.javascript.ru/closures)
+- [Всплытие](https://habr.com/ru/post/127482/)
+- [Промисы](https://habr.com/ru/company/mailru/blog/269465/)
+- [post\get\put](https://habr.com/ru/post/50147/)
+- [REST](https://habr.com/ru/post/38730/)
+- [Как работает браузер](https://habr.com/ru/company/dataart/blog/304138/)
