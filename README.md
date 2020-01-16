@@ -1,3 +1,6 @@
+## На интервью обязательно будут спрашивать (и м.б. ещё что-то):
+
+
 ## Примеры вопросов:
 
 - [Типы данных](https://learn.javascript.ru/types)
@@ -27,9 +30,8 @@
 - [Promise (medium)](https://medium.com/@stasonmars/%D0%BF%D1%80%D0%BE%D0%BC%D0%B8%D1%81%D1%8B-%D0%B2-javascript-%D0%B4%D0%BB%D1%8F-%D1%87%D0%B0%D0%B8%CC%86%D0%BD%D0%B8%D0%BA%D0%BE%D0%B2-60bbef963541)
 - [Spread и Rest (jsraccoon)](http://jsraccoon.ru/es6-spread-rest)
 - [Spread и Rest (medium)](https://medium.com/@stasonmars/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-spread-%D0%B8-rest-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B-%D0%B2-javascript-22eb33cb0825)
-- []()
-- []()
-- []()
+- [“hello world”.repeating(3) -> hello world hello world hello world. How to implement?](https://otvet.mail.ru/question/211155060)
+- [Write a function F so new F === F](https://qna.habr.com/q/529904)
 
 ## Полезные ссылки:
 
