@@ -12,7 +12,6 @@
 - [CSS animation](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy)
 - [Selectors specificity](http://qnimate.com/wp-content/uploads/2014/07/specificity-table1.jpg)
 
-
 ## Примеры вопросов:
 
 - [Типы данных](https://learn.javascript.ru/types)
@@ -58,4 +57,11 @@
 
 ## Темы из собеса в stage#2:
 
-
+- [Основы ООП](http://www.codenet.ru/progr/cpp/ipn.php)
+- [Основы ООП (JS)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+- [Основные алгоритмы сортировки и поиска](https://www.youtube.com/watch?v=dMYB4kImt1k)
+- [Бинарная система](https://ru.wikipedia.org/wiki/%D0%94%D0%B2%D0%BE%D0%B8%D1%87%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%81%D1%87%D0%B8%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F)
+- [Display attribute values](https://learn.javascript.ru/display)
+- [Псевдоэлементы](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
+- [Псевдоклассы](https://developer.mozilla.org/ru/docs/Web/CSS/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B)
+- [Абсолютные и относительные](http://htmlbook.ru/content/edinitsy-izmereniya)
