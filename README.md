@@ -1,5 +1,16 @@
 ## На интервью обязательно будут спрашивать (и м.б. ещё что-то):
 
+- [Big O notation](https://1.bp.blogspot.com/-37ceLnvPZjQ/XPiG57OJKAI/AAAAAAAABzA/28D5KuW3iNASZLXbTdKOJJ1GDnIf07fmQCLcBGAs/s1600/runtimes.JPG)
+- [Data structures](https://habr.com/ru/post/422259/)
+- [Patterns](https://refactoring.guru/ru/design-patterns)
+- [es6 features](https://habr.com/ru/post/305900/)
+- [JS animations](https://learn.javascript.ru/js-animation)
+- [Rendering pipeline, reflow/repaint](https://habr.com/ru/post/224187/)
+- [Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [Positions](https://developer.mozilla.org/ru/docs/Web/CSS/position)
+- [Float](http://htmlbook.ru/css/float)
+- []()
+
 
 ## Примеры вопросов:
 
@@ -43,3 +54,7 @@
 - [post\get\put](https://habr.com/ru/post/50147/)
 - [REST](https://habr.com/ru/post/38730/)
 - [Как работает браузер](https://habr.com/ru/company/dataart/blog/304138/)
+
+## Темы из собеса в stage#2:
+
+
