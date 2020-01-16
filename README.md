@@ -9,7 +9,8 @@
 - [Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
 - [Positions](https://developer.mozilla.org/ru/docs/Web/CSS/position)
 - [Float](http://htmlbook.ru/css/float)
-- []()
+- [CSS animation](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy)
+- [Selectors specificity](http://qnimate.com/wp-content/uploads/2014/07/specificity-table1.jpg)
 
 
 ## Примеры вопросов:
