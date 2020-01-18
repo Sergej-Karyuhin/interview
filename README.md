@@ -1,4 +1,4 @@
-## На интервью обязательно будут спрашивать (и м.б. ещё что-то):
+## Discord:
 
 - [Big O notation](https://1.bp.blogspot.com/-37ceLnvPZjQ/XPiG57OJKAI/AAAAAAAABzA/28D5KuW3iNASZLXbTdKOJJ1GDnIf07fmQCLcBGAs/s1600/runtimes.JPG)
 - [Data structures](https://habr.com/ru/post/422259/)
@@ -7,7 +7,8 @@
 - [JS animations](https://learn.javascript.ru/js-animation)
 - [Rendering pipeline, reflow/repaint](https://habr.com/ru/post/224187/)
 - [Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
-- [Positions](https://developer.mozilla.org/ru/docs/Web/CSS/position)
+- [Positions (MDN)](https://developer.mozilla.org/ru/docs/Web/CSS/position)
+- [Positions (htmlbook)](http://htmlbook.ru/css/position)
 - [Float](http://htmlbook.ru/css/float)
 - [CSS animation](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy)
 - [Selectors specificity](http://qnimate.com/wp-content/uploads/2014/07/specificity-table1.jpg)
@@ -24,7 +25,7 @@
 - [Различия между proto и prototype](https://ru.stackoverflow.com/questions/683190/%D0%92-%D1%87%D0%B5%D0%BC-%D0%BE%D1%82%D0%BB%D0%B8%D1%87%D0%B8%D0%B5-proto-%D0%BE%D1%82-prototype)
 - [Различия между proto и prototype](https://habr.com/ru/post/140810/)
 - [Пример наследования (learn.javascript)](https://learn.javascript.ru/prototype-inheritance)
-- [Пример наследования (mozilla)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
+- [Пример наследования (MDN)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)
 - [How to create an object without a prototype?](http://adripofjavascript.com/blog/drips/creating-objects-without-prototypes.html)
 - [Array methods that loop over the elements.](https://learn.javascript.ru/array-iteration)
 - [Введение в браузерные события](https://learn.javascript.ru/introduction-browser-events)
@@ -55,7 +56,7 @@
 - [REST](https://habr.com/ru/post/38730/)
 - [Как работает браузер](https://habr.com/ru/company/dataart/blog/304138/)
 
-## Темы из собеса в stage#2:
+## Некоторые темы из собеса в stage#2:
 
 - [Основы ООП](http://www.codenet.ru/progr/cpp/ipn.php)
 - [Основы ООП (JS)](https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
