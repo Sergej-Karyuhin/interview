@@ -45,6 +45,8 @@
 - [“hello world”.repeating(3) -> hello world hello world hello world. How to implement?](https://otvet.mail.ru/question/211155060)
 - [Write a function F so new F === F](https://qna.habr.com/q/529904)
 - [Object methods to iterate over the elements](https://frontend-stuff.com/blog/how-to-loop-through-object-in-javascript/)
+- [Map и Set](https://learn.javascript.ru/map-set)
+- [WeakMap и WeakSet](https://learn.javascript.ru/weakmap-weakset)
 
 ## Полезные ссылки:
 
