@@ -44,6 +44,7 @@
 - [Spread и Rest (medium)](https://medium.com/@stasonmars/%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-spread-%D0%B8-rest-%D0%BF%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D1%82%D1%80%D1%8B-%D0%B2-javascript-22eb33cb0825)
 - [“hello world”.repeating(3) -> hello world hello world hello world. How to implement?](https://otvet.mail.ru/question/211155060)
 - [Write a function F so new F === F](https://qna.habr.com/q/529904)
+- [Object methods to iterate over the elements](https://frontend-stuff.com/blog/how-to-loop-through-object-in-javascript/)
 
 ## Полезные ссылки:
 
